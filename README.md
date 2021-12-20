@@ -8,7 +8,7 @@ A scheduling program for teachers and students built for my Computer Science cla
 * How to write documentation for a program
 * & much more
 
-# What Program Looks Like
+# What the Program Looks Like
 
 Program Menu
 
